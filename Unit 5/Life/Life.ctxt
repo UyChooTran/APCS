@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Life()
+comment1.params=
+comment1.target=void\ initial()
+comment2.params=x
+comment2.target=void\ print(int[][])
+comment3.params=x\ c
+comment3.target=void\ print(int,\ char)
+comment4.params=
+comment4.target=void\ printAll()
+comment5.params=runs
+comment5.target=void\ live(int)
+comment6.params=x
+comment6.target=void\ gen(int[][])
+numComments=7

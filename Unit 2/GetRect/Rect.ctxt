@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rect()
+comment1.params=x1\ y1\ width1\ height1
+comment1.target=Rect(double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getPerimeter()
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=void\ draw()
+numComments=5

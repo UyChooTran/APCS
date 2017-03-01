@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Translate()
+comment1.params=x
+comment1.target=Translate(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ trans()
+comment3.params=x
+comment3.target=java.lang.String\ first(java.lang.String)
+comment4.params=x
+comment4.target=java.lang.String\ vow(java.lang.String)
+comment5.params=input
+comment5.target=boolean\ vCheck(java.lang.String)
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=far
+comment0.target=double\ fToC(double)
+comment1.params=cel
+comment1.target=double\ cToF(double)
+comment2.params=radius
+comment2.target=double\ vol(double)
+comment3.params=a\ b
+comment3.target=double\ pythag(double,\ double)
+numComments=4

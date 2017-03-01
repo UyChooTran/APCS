@@ -1,0 +1,3 @@
+Average: 49.92
+Standard Deviation: 29.44
+Modes: 10, 48

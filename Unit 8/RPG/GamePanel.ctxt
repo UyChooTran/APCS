@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GamePanel()
+comment0.text=\r\n\ \ Builds\ the\ framework\ to\ hold\ all\ the\ panels\ and\ subpanels\r\n
+comment1.params=
+comment1.target=javax.swing.ImageIcon\ randomImage()
+comment1.text=\r\n\ \ Returns\ a\ random\ image\ of\ a\ hand\ displaying\ either\ a\r\n\ \ fist\ for\ a\ rock,\ open\ hand\ for\ paper,\ or\ split\ fingers\r\n\ \ for\ scissors\r\n\ \ @return\ returns\ a\ rock-paper-scissors\ hand\ image\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ \ Determines\ which\ action\ has\ taken\ place\ and\ performs\r\n\ \ the\ appropriate\ function.\r\n\ \ @param\ e\ the\ action\ event\ that\ has\ just\ taken\ place\r\n\ \ @postcondition\:\ If\ the\ action\ is\ the\ timer\ firing\ then\ just\r\n\ \ \ \ \ \ display\ a\ random\ image\ in\ the\ computer\ panel.\r\n\ \ \ \ \ \ If\ the\ user\ selected\ the\ Rock-Paper-Scissor\ button\ then\ determine\r\n\ \ \ \ \ \ the\ winner\ by\ calling\ the\ showWinner\ method.\r\n\ \ \ \ \ \ If\ the\ user\ selected\ the\ Quit\ or\ Play\ again\ button\ then\ either\r\n\ \ \ \ \ \ quit\ the\ game\ or\ start\ it\ up\ again.\r\n
+comment3.params=player
+comment3.target=void\ showWinner(int)
+comment3.text=\r\n\ \ Displays\ the\ winner\ in\ the\ bottom\ right\ panel.\ \ Disables\ the\ \r\n\ \ Rock-Paper-Scissors\ buttons,\ \ stops\ the\ time,\r\n\ \ and\ displays\ buttons\ to\ either\ Quit\ or\ Play\ Again.\r\n\ \ @param\ player\ the\ player's\ Rock-Paper-Scissors\ value\r\n\ \ \ \ \ \ \ \ \ \ 0-Rock,\ 1-Paper,\ 2-Scissors\r\n
+comment4.params=
+comment4.target=void\ resetGame()
+comment4.text=\r\n\ \ Enables\ the\ Rock-Paper-Scissors\ buttons,\ displays\ click\ on\ text\ and\ hides\r\n\ \ the\ Quit\ &\ Play\ Again\ buttons\ from\ the\ bottom\ right\ panel.\r\n\ \ Starts\ the\ timer\ so\ the\ random\ images\ will\ be\ displayed\r\n\ \ for\ the\ computer.\r\n
+comment5.params=
+comment5.target=void\ quitGame()
+comment5.text=\r\n\ \ Properly\ exits\ the\ program\r\n
+numComments=6

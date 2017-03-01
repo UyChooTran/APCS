@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=food\ cost
+comment0.target=FoodItem(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=void\ isClicked()
+numComments=2

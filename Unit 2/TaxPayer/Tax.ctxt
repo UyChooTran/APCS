@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=m\ income
+comment0.target=Tax(boolean,\ double)
+comment1.params=
+comment1.target=Tax()
+comment2.params=
+comment2.target=double\ calcTax()
+comment3.params=
+comment3.target=double\ calcMar()
+comment4.params=
+comment4.target=double\ calcSing()
+numComments=5

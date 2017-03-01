@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ speak()
+comment0.text=\r\n\tDisplays\ the\ sound\ the\ Animal\ makes\r\n
+comment1.params=
+comment1.target=int\ loudness()
+comment1.text=\r\n\tReturns\ the\ loudness\ of\ the\ voice\ spoken\ in\ decibels\r\n\tThe\ larger\ the\ integer\ value\ the\ louder\ the\ sound\ is\r\n\tA\ value\ of\ 0\ indicates\ the\ animal\ makes\ no\ sound\r\n\t@return\ returns\ a\ int\ value\ >\=\ 0\ indicating\ loudness\ of\ animal\r\n\t\t\tin\ terms\ of\ decibels\r\n\t@postcondition\ value\ returned\ is\ >\=\ 0\r\n
+comment2.params=obj
+comment2.target=int\ compareTo(java.lang.Object)
+comment2.text=\r\n\tThis\ method\ is\ in\ the\ interface\ because\ I\ extended\ Comparable\r\n\tabove.\ \ Is\ is\ shown\ here\ in\ comments\ only\ to\ let\ you\ know\ that\r\n\tit\ must\ be\ included\ in\ any\ class\ that\ implements\ the\ Animal\r\n\tinterface\r\n\r\n\tReturns\ a\ positive\ integer\ if\ this\ object\ has\ a\ greater\ sound\ volume\ (decibels)\ than\ obj\r\n\tReturns\ 0\ if\ this\ is\ this\ object\ has\ the\ same\ sound\ volume\ (decibels)\ as\ obj\r\n\tReturns\ a\ negative\ integer\ if\ this\ object\ has\ a\ lesser\ sound\ volume\ (decibels)\ than\ obj\r\n\t@param\ obj\ the\ object\ to\ compare\ this\ too\r\n\t@return\ returns\ positive,\ 0\ or\ negative\ int\r\n
+numComments=3

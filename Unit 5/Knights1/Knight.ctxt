@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Knight()
+comment1.params=
+comment1.target=void\ set()
+comment2.params=j\ k
+comment2.target=boolean\ visited(int,\ int)
+comment3.params=x
+comment3.target=int\ random(int)
+comment4.params=x
+comment4.target=void\ move(int)
+comment5.params=
+comment5.target=void\ which()
+numComments=6

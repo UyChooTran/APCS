@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=str
+comment0.target=Word(java.lang.String)
+comment1.params=
+comment1.target=void\ inc()
+comment2.params=
+comment2.target=int\ getRep()
+comment3.params=
+comment3.target=java.lang.String\ getWord()
+comment4.params=wrod
+comment4.target=int\ compareTo(java.lang.Object)
+comment5.params=wrod
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=x
+comment6.target=boolean\ equals(int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

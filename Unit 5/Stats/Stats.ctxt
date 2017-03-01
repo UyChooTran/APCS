@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=x\ y
+comment1.target=double\ ave(double,\ double)
+comment2.params=x\ average\ len
+comment2.target=double\ SumSquare(int[],\ double,\ int)
+comment3.params=x\ l
+comment3.target=java.lang.String\ mode(int[],\ int)
+comment4.params=max\ x\ y\ l\ pos
+comment4.target=java.lang.String\ find(int,\ int[],\ int[],\ int,\ int)
+comment5.params=maxes\ pos\ max
+comment5.target=boolean\ moreVal(int[],\ int,\ int)
+numComments=6

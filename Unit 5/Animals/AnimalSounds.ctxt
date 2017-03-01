@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=a\ b\ c
+comment1.target=Animal\ findLoudest(Animal,\ Animal,\ Animal)
+comment1.text=\r\n\ \ \ \ \ \ \ \ This\ method\ compares\ three\ animals\ and\ returns\ the\ animal\r\n\ \ \ \ \ \ \ \ that\ makes\ the\ most\ noise\ (greatest\ sound\ in\ decibles).\r\n\ \ \ \ \ \ \ \ @param\ a\ the\ first\ animal\ to\ compare.\r\n\ \ \ \ \ \ \ \ @param\ b\ the\ second\ animal\ to\ compare.\r\n\ \ \ \ \ \ \ \ @param\ c\ the\ third\ animal\ to\ compare\r\n\ \ \ \ \ \ \ \ @return\ returns\ the\ loudest\ animal\ (the\ one\ with\ the\ greatest\ sound).\r\n\ \ \ \ \ \ \ \ @poscondition\ The\ loudest\ animal\ is\ found\ and\ returned.\r\n
+numComments=2

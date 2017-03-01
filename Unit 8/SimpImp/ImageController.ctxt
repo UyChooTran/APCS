@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ImageController()
+comment0.text=\r\n\tCreates\ the\ two\ panels.\r\n\tPlaces\ the\ image\ in\ the\ left\ panel.\r\n\tPlaces\ 2\ buttons\ in\ the\ right\ panel\ and\ sets\ up\ the\r\n\tlisteners.\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\tButton\ to\ create\ new\ random\ image\ and\ display\ it\r\n\tButton\ to\ compress\ current\ image\ and\ display\ it\ -\ prompt\ for\ block\ size\r\n\t@param\ e\ the\ action\ event\ object\ that\ knows\ what\ just\ happened\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

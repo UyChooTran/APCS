@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=y
+comment0.target=Compact(java.lang.String)
+comment1.params=
+comment1.target=int[]\ array()
+comment2.params=
+comment2.target=void\ remove()
+comment3.params=
+comment3.target=void\ print()
+comment4.params=j
+comment4.target=void\ print(int)
+comment5.params=u
+comment5.target=int\ compact(int)
+numComments=6

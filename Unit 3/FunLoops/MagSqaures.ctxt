@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=num
+comment1.target=void\ magicsquare(int)
+comment2.params=num
+comment2.target=boolean\ sumofint(int)
+comment3.params=num
+comment3.target=void\ reverse(int)
+comment4.params=num
+comment4.target=int\ length(int)
+comment5.params=x\ y
+comment5.target=void\ lcm(int,\ int)
+comment6.params=x\ y
+comment6.target=int\ calc(int,\ int)
+numComments=7

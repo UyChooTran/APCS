@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ImagePanel()
+comment0.text=\r\n\tSet\ the\ background\ on\ the\ panel\ to\ white\r\n
+comment1.params=img
+comment1.target=void\ update(SimpleImage)
+comment1.text=\r\n\tReceives\ the\ image\ to\ display\ in\ the\ panel\r\n\t@param\ img\ the\ image\ to\ display\ in\ the\ panel\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\r\n\tDisplays\ the\ image\ in\ the\ panel\r\n\t@param\ g\ the\ graphics\ object\ to\ use\ to\ display\r\n
+numComments=3
